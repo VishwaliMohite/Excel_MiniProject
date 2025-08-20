@@ -1,0 +1,51 @@
+StudentID,FirstName,LastName,Gender,Age,Email,Phone,Department,Year,GPA,City
+S1000,David,Pham,Male,18,lindseycarter@yahoo.com,387-153-9520x2392,Electrical,Final,8.34,East Abigailshire
+S1001,Melissa,Webb,Female,24,jonalexander@padilla.biz,(531)913-4735x141,Civil,Final,5.23,Brittanyton
+S1002,Kevin,Mckinney,Male,24,yangjoseph@walters.biz,418.169.7413,Mechanical,First,9.5,West Jessica
+S1003,Jason,Davis,Female,18,jchang@yahoo.com,037.007.8437,Electronics,Final,6.33,Singletonside
+S1004,Victor,Zavala,Female,22,kellyalejandra@lopez-horn.com,001-679-256-1662x193,Electronics,First,6.23,Port Gabriel
+S1005,Justin,Tate,Female,19,edward14@gill.com,+1-372-390-4650x11191,Electronics,Third,6.7,Shawnside
+S1006,Andrew,Stevens,Female,19,kevinochoa@hotmail.com,872.947.9114,Electrical,Final,9.04,Port Barryborough
+S1007,Jessica,Rodriguez,Female,22,zbaker@hotmail.com,726-142-8806x673,Electrical,Final,9.47,Millerhaven
+S1008,Eric,Sosa,Female,20,unguyen@yahoo.com,776-772-5078x257,Mechanical,Second,9.01,Russellberg
+S1009,Curtis,Smith,Female,22,conleyerin@garcia.com,(910)236-1146x63636,Civil,Final,9.65,Alexandermouth
+S1010,Angie,Schneider,Female,24,lisa79@yahoo.com,012-278-1174x42675,Computer Science,Final,5.76,Lake Michael
+S1011,Jacob,Anderson,Female,18,ronaldking@jensen.biz,+1-116-210-6653x913,Computer Science,Third,8.17,Martinezberg
+S1012,Karen,Tran,Male,18,jalvarez@ryan.com,(388)752-5084x6347,Civil,First,6.07,West Kevinburgh
+S1013,David,Sanchez,Male,23,hansenmarc@johnson.info,(825)683-4100,Electronics,Final,9.85,Stephanieberg
+S1014,Ryan,Strickland,Male,18,thompsonbreanna@yahoo.com,191-954-3397,Computer Science,Final,9.18,Woodsville
+S1015,Bobby,Roberts,Male,23,jshannon@mccormick-stewart.biz,001-034-784-8113x9584,Mechanical,First,8.37,Lake Michael
+S1016,Tara,Bailey,Female,24,hannahpatterson@yahoo.com,001-437-127-2518x077,Computer Science,Final,7.01,Lake Tina
+S1017,Alexander,Gentry,Female,19,gilmoreomar@mitchell.com,(736)583-5028,Electronics,First,8.03,West Barry
+S1018,Jason,Preston,Male,19,mirandadaniel@gmail.com,001-083-461-7404x31606,Electrical,Final,8.58,Port Kelly
+S1019,Taylor,Ward,Female,21,clayton23@hanson-jones.info,+1-856-215-1551x490,Electrical,Final,6.6,Holmesside
+S1020,Brian,Owen,Female,21,kim56@jones.com,829-429-0806x99637,Civil,Third,5.76,South James
+S1021,Todd,Esparza,Female,18,samanthawells@yahoo.com,595-824-0819x759,Mechanical,First,8.29,Port Victoriachester
+S1022,Carolyn,Vega,Male,22,thiggins@evans.com,858.554.5064,Mechanical,First,8.25,Pearsonfort
+S1023,Marissa,Walsh,Female,18,stephanieharmon@hotmail.com,1806728439,Computer Science,First,5.32,East Jamesside
+S1024,Ryan,Young,Female,21,rmclaughlin@gmail.com,+1-238-656-6737,Civil,Final,7.01,New William
+S1025,Anthony,Cuevas,Male,22,jonathanford@hotmail.com,159-260-7428x16209,Electronics,Second,9.87,New Nataliebury
+S1026,Mark,Hudson,Female,21,joncurtis@yahoo.com,(202)139-9821,Electrical,Second,8.42,Port Kennethton
+S1027,Kelly,Carr,Male,19,geoffreyvasquez@sloan-guerrero.biz,047.486.6837,Civil,First,7.87,Port Peter
+S1028,Tyrone,Zuniga,Female,18,greeneshelley@barnes.biz,(522)867-0131,Mechanical,Final,9.31,Harmonside
+S1029,Ruth,Clark,Female,24,laceyjackson@hotmail.com,001-418-699-3188x8146,Electronics,Third,8.02,Port David
+S1030,Misty,Blair,Male,25,lewisbarry@hotmail.com,001-394-059-1218x1276,Electrical,Third,9.72,Lake Coryhaven
+S1031,Adam,Moss,Male,19,patricia32@hardy-zamora.net,079.514.1327,Electronics,Final,6.84,Washingtonside
+S1032,Margaret,Jensen,Female,22,deborah33@watson-conner.com,066-787-9807x4653,Electrical,Third,5.91,West Benjamin
+S1033,Donald,Martinez,Female,22,brandonalexander@hansen.org,(886)377-1523,Electrical,Second,5.44,Michaelbury
+S1034,Martin,Massey,Male,23,hannah69@hotmail.com,891.599.4596,Mechanical,First,7.73,Blairville
+S1035,Kerry,Graham,Female,19,corychavez@park.com,(601)224-9095x081,Civil,Third,9.56,South Samuel
+S1036,Joel,Thomas,Male,22,srichardson@bailey.com,937-546-2995x82447,Electrical,Third,5.99,Mclaughlinton
+S1037,William,Fitzpatrick,Male,22,kmcmillan@gmail.com,1494590674,Mechanical,First,8.6,West Dianemouth
+S1038,Gregory,Nunez,Female,23,robert60@kennedy-lewis.info,902.648.7026x51767,Computer Science,Final,5.88,Rodneyshire
+S1039,Kyle,Johnson,Female,21,markadams@walker.com,(903)086-8026,Mechanical,First,8.22,Scottshire
+S1040,Jennifer,Bryant,Female,21,meganarnold@yahoo.com,031-108-8327x258,Computer Science,First,7.16,New Amandaport
+S1041,Johnny,Watson,Female,18,harveysheri@hotmail.com,(526)354-3812,Computer Science,Third,8.28,Andersonmouth
+S1042,Brandon,Patterson,Male,25,brownjeffrey@hotmail.com,934.475.0585x2417,Mechanical,Second,5.91,Deanland
+S1043,Michael,Briggs,Male,25,udominguez@yahoo.com,135-634-8697x52928,Electronics,Second,7.73,Lopezberg
+S1044,Amanda,Mejia,Male,18,elizabethcox@marshall.com,+1-296-956-8392,Electrical,Third,8.56,East Michael
+S1045,Jamie,Spencer,Female,23,zjohnson@gmail.com,+1-852-025-2772x04816,Civil,Third,6.45,East Deborah
+S1046,Brandon,Clayton,Male,18,stonemelissa@benitez.com,891.436.0865,Civil,Second,9.5,Ramirezbury
+S1047,Kelly,Knight,Female,22,lonniegates@yahoo.com,073.380.1999x969,Computer Science,Second,8.1,Jenniferland
+S1048,Jack,Miller,Female,25,robertwatts@gmail.com,814-324-6093,Electronics,Second,8.86,East Raymondstad
+S1049,Mitchell,Owens,Male,18,mejiawilliam@gmail.com,001-360-477-3977x095,Mechanical,First,6.7,Zacharybury
